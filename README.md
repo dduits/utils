@@ -7,7 +7,7 @@ Collection of utility scripts and tools that do various things.
 Clone the project and get started with the script you want to use.
 
 ```
-https://github.com/dduits/utils.git
+git clone https://github.com/dduits/utils.git
 ```
 
 ### Prerequisites
