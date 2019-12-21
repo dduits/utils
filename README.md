@@ -18,6 +18,15 @@ The prerequisites and dependencies differ per script / tool.
 
 * Python 3
 
+#### mem-check
+
+* Shell
+* getopts
+* free
+* awk
+* notify-send
+* paplay
+
 ## Authors
 
 * **Devananda Duits** - *Initial work* - [dduits](https://github.com/dduits)
