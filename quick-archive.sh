@@ -4,7 +4,7 @@
 #author			: dduits (https://github.com/dduits)
 #license		: MIT, see the LICENSE file for more information.
 #version        : 1.0
-#usage		 	: ./quick-archive.sh ~/Documents/school ~/Documents
+#usage		 	: sh quick-archive.sh ~/Documents/school ~/Documents
 
 folder=$1
 destination=$2
