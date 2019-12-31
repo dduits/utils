@@ -14,19 +14,6 @@ git clone https://github.com/dduits/utils.git
 
 The prerequisites and dependencies differ per script / tool.
 
-#### internship-datetime-utils
-
-* Python 3
-
-#### mem-check
-
-* Shell
-* getopts
-* free
-* awk
-* notify-send
-* paplay
-
 ## Authors
 
 * **Devananda Duits** - *Initial work* - [dduits](https://github.com/dduits)
