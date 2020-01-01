@@ -1,10 +1,10 @@
 #!/bin/sh
-#title          : sort-img-by-dimensions.sh
-#description    : Sorts an image into either a mobile or a desktop folder based on the resolution.
-#author         : dduits (https://github.com/dduits)
-#license        : MIT, see the LICENSE file for more information.
-#version        : 1.0
-#usage          : find ~/Pictures/wallpapers -type f -exec sort-img-by-dimensions.sh {} ~/Pictures/wallpapers-sorted \;
+# title: sort-img-by-dimensions.sh
+# description: Sorts an image into either a mobile or a desktop folder based on the resolution.
+# author: dduits (https://github.com/dduits)
+# license: MIT, see the LICENSE file for more information.
+# version: 1.0
+# usage: find ~/Pictures/wallpapers -type f -exec sort-img-by-dimensions.sh {} ~/Pictures/wallpapers-sorted \;
 
 file="$1"
 output_path="$2"
